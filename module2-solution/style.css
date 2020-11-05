@@ -1,3 +1,6 @@
+body{
+  background-color: grey;
+}
 #content {
-background-color: grey;
+  background-color: #90EE90; /*green*/
 }
